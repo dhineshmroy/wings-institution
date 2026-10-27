@@ -21,3 +21,4 @@
 
 ## 4. Make yourself admin
 Sign up on the site with your email, then run `database/02_make_admin.sql` (edit the email).
+# wings-institution
